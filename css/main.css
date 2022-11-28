@@ -316,7 +316,6 @@ select {
   color: #000;
   transition: all 0.2s;
   -webkit-appearance: none;
-  -moz-appearance: none;
   appearance: none;
   cursor: pointer;
 }
